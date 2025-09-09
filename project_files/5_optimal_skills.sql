@@ -4,9 +4,7 @@ Question 5 : What are the most optimal skills to learn (aka it’s in high deman
 - Why? Offer strategic insights for career development in data analysis
 */
 
--- Identifies skills in high demand for Data Analyst roles
--- Use Query #3
-
+-- Reuse previous queries as CTEs
 /*
 WITH skills_demand AS (
     SELECT
@@ -56,7 +54,7 @@ ORDER BY
 LIMIT 25;
 */
 
--- rewriting this same query more concisely
+-- rewriting the query 
 SELECT 
     skills_dim.skill_id,
     skills_dim.skills,
@@ -77,5 +75,6 @@ ORDER BY
     avg_salary DESC,
     demand_count DESC
 LIMIT 25;
+
 
 
