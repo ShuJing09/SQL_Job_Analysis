@@ -1,11 +1,11 @@
 ## SQL_Job_Analysis
 
-#Create and Load Database
+##Create and Load Database
 1. CREATE DATABASE in Postgres
 2. CREATE TABLE to load excel data into 
 3. LOAD CSV file path into respective tables
 
-#Projects : Questions to Answer
+##Projects : Questions to Answer
 1. What are the top-paying jobs for Data Analyst Job?
 2. What are the skills required for the top paying roles?
 3. What are the most in-demand skills for the roles?
