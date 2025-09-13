@@ -1,8 +1,9 @@
 ## SQL_Job_Analysis
+Practice Problem for SQL Data Analysis
 
 ## Create and Load Database
 1. CREATE DATABASE in Postgres
-2. CREATE TABLE to load excel data into 
+2. CREATE TABLE to load excel data 
 3. LOAD CSV file path into respective tables
 
 ## Projects : Questions to Answer
