@@ -16,9 +16,6 @@
 \copy skills_job_dim FROM 'C:\Users\dings\OneDrive\Desktop\SQL_Data_Analysis\csv_files\skills_job_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
 */
-
--- NOTE: This has been updated from the video to fix issues with encoding
-
 COPY company_dim
 FROM 'C:\Users\dings\OneDrive\Desktop\SQL_Data_Analysis\csv_files\company_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
