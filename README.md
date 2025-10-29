@@ -1,5 +1,5 @@
 # SQL_Job_Analysis
-### Practice Problem of SQL Data Analysis
+#### Practice Problem of SQL Data Analysis
 
 # Create and Load Database
 ### 1. CREATE DATABASE in PostgreSQL
