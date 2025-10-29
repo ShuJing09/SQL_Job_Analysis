@@ -2,7 +2,7 @@
 Practice Problem of SQL Data Analysis
 
 ## Create and Load Database
-1. CREATE DATABASE in Postgres
+1. CREATE DATABASE in PostgreSQL
 2. CREATE TABLE to load excel data 
 3. LOAD CSV file path into respective tables
 
