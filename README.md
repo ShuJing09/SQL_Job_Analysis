@@ -19,5 +19,5 @@ Practice Problem of SQL Data Analysis
 
 <img width="1404" height="761" alt="image" src="https://github.com/user-attachments/assets/409896b7-8a0b-4848-b61b-a8f4a77bfac1" />
 
-Job Title Variety: Job titles vary from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
-Salary Range: Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
+**Job Title Variety:** Job titles vary from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
+**Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
