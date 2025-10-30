@@ -1,8 +1,8 @@
 # SQL_Job_Analysis
-# Tools Used
+# Tools Used :wrench:
 1. **PostgreSQL** as database management system
-2. **SQL** as programming language for analysis
-3. **PowerBI** for visualization
+2. **SQL** as programming language for analysis 
+3. **PowerBI** for visualization :bar_chart:
 
 # Create and Load Database
 1. CREATE DATABASE in PostgreSQL
