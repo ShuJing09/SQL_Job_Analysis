@@ -2,7 +2,7 @@
 # Tools Used :wrench:
 1. **PostgreSQL** as database management system
 2. **SQL** backbone programming language for analysis 
-3. **PowerBI** for visualization :bar_chart:
+3. **Excel PivotChart & PowerBI** for visualization :bar_chart:
 
 # Create and Load Database :open_file_folder:
 1. CREATE DATABASE in PostgreSQL
