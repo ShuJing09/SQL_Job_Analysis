@@ -26,4 +26,4 @@
 - **Job Title:** Principal titles show stable pay, reflecting the dataset’s realistic upper-middle salary cluster. 
 - ❗❗**HOWEVER**, there could be an **outlier** in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles.❗❗ \
            -- Likely due to company type (startup equity-based) **OR** misleading job title
-- ⚠️**Action to Take:** Flag the data as outlier and seek for further investgation. ⚠️
+- ⚠️ **Action to Take:** Flag the data as outlier and seek for further investgation. 
