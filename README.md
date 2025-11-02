@@ -26,4 +26,15 @@
 - **Job Title:** Diversity of job titles, reflecting varied career path & opportunities within analytics. 
 - ❗❗**HOWEVER**, there could be an **outlier** in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles.❗❗ \
            -- Likely due to company type (startup equity-based) **OR** misleading job title
-- ⚠️ **Action to Take:** Flag the data as outlier and seek for further investgation. 
+- ⚠️ **Action to Take:** Flag the data as outlier and seek for further investgation.
+
+## 2. Skills Required for Data Analysts
+
+
+## 3. In-Demand Skills for Data Analysts
+
+
+## 4. Skills Based On Salary
+
+
+## 5. Optimal Skills 
