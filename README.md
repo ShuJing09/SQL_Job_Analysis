@@ -18,9 +18,14 @@
          a. Optimal : High Demand AND High Paying
 
 # The Analysis :chart_with_upwards_trend:
-## 1. Top Paying Data Analyst Jobs
+## 1. Top 10 Paying Data Analyst Jobs
 
 <img width="1404" height="761" alt="image" src="https://github.com/user-attachments/assets/409896b7-8a0b-4848-b61b-a8f4a77bfac1" />
 
-- **Job Title Variety:** Job titles vary from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics industry.
-- **Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
+- **Salary Range:** Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical high-end data leadership pay.
+- **Job Title:** Principal titles show stable pay, reflecting the dataset’s realistic upper-middle salary cluster. 
+- **HOWEVER**, there could be an outlier in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles. \
+           - likely due to company type (startup equity-based)
+                    OR
+           - Misleading job title
+- **Action to Take:** Flag the data as outlier and seek for further investgation.
