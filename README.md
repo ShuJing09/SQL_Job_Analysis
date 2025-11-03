@@ -39,6 +39,7 @@
 ## 3. In-Demand Skills for Data Analysts
 
 | Skills | Demand_Count |
+| :------| :----------  |
 |SQL	| 7,291    |
 |Excel	| 4,611    |
 |Python	| 4,330    |
