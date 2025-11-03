@@ -38,12 +38,12 @@
 
 ## 3. In-Demand Skills for Data Analysts
 
-Skills	Demand_Count
-SQL	 7,291 
-Excel	 4,611 
-Python	 4,330 
-Tableau	 3,745 
-PowerBI	 2,609 
+| Skills |	| Demand_Count |
+|SQL	|        |     7,291    |
+|Excel	|        |     4,611    |
+|Python	|        |     4,330    |
+|Tableau	|        |     3,745    |
+|PowerBI	|        |     2,609    |
 
 - ❗❗**SQL** and **Excel** form the backbone of data analysis, highlighting the need in data handling and analytical workflow.
 - **Python**, **Tableau**, and **PowerBI** complement the workflow by enabling automation, visualization, and storytelling that help with strategic decision-making.❗❗
