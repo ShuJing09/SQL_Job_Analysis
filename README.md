@@ -30,7 +30,7 @@
 
 ## 2. Skills Required for Top Paying Data Analyst Jobs
 
-
+<img width="1945" height="1057" alt="image" src="https://github.com/user-attachments/assets/5f38dae4-3c26-4a99-9873-9e76d7a00110" />
 
 - Programming language like **SQL** (8 counts) is the most in-demand skills and **Python** (7 counts) came in second.
 - Visualization tools like **Tableau** (6 counts) and **PowerBI** (2 counts) highlight their importance in a Data Analyst’s skill set.
