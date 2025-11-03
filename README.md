@@ -34,7 +34,7 @@
 
 - Programming language like **SQL** (8 counts) is the most in-demand skills and **Python** (7 counts) came in second.
 - Visualization tools like **Tableau** (6 counts) and **PowerBI** (2 counts) highlight their importance in a Data Analyst’s skill set.
-- ❗❗Based on the dataset, these are key skills required for top-paying data analyst roles, reflecting the tools commonly used in their daily work.❗❗
+- Based on the dataset, these are key skills required for top-paying data analyst roles, reflecting the tools commonly used in their daily work.
 
 ## 3. In-Demand Skills for Data Analysts
 
@@ -46,8 +46,8 @@
 |Tableau	| 3,745    |
 |PowerBI	| 2,609    |
 
-- ❗❗**SQL** and **Excel** form the backbone of data analysis, highlighting the need in data handling and analytical workflow.
-- **Python**, **Tableau**, and **PowerBI** complement the workflow by enabling automation, visualization, and storytelling that help with strategic decision-making.❗❗
+- **SQL** and **Excel** form the backbone of data analysis, highlighting the need in data handling and analytical workflow.
+- **Python**, **Tableau**, and **PowerBI** complement the workflow by enabling automation, visualization, and storytelling that help with strategic decision-making.
 
 
 
