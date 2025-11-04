@@ -53,7 +53,7 @@
 
 ## 4. Skills Based On Salary
 
-| Skills          | Avergae_Salary |
+| Skills          | Average_Salary |
 | :---------------| :----------  |
 |PySpark	         | $208,172    |
 |Bitbucket	| $189,155    |
