@@ -72,7 +72,20 @@
 
 
 ## 5. Optimal Skills 
-Here's a breakdown of the most optimal skills for Data Analysts in 2023:
+
+| Skills          | Demand_Count | Average_Salary |
+| :---------------| :----------  | :----------  |
+|Go	         | 27    | $115,320    |
+|Confluence	| 11    | $114,210    |
+|Hadoop         	| 22    | $113,193    |
+|Snowflake	| 37    | $112,948    |
+|Azure         	| 34    | $111,225    |
+|BigQuery	| 13    | $109,654    |
+|AWS         	| 32    | $108,317    |
+|Java         	| 17    | $106,906    |
+|SSIS         	| 12    | $106,683    |
+|Jira         	| 20    | $104,918    |
+
 
 High-Demand Programming Languages: Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 Cloud Tools and Technologies: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
