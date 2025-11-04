@@ -75,19 +75,30 @@
 
 | Skills          | Demand_Count | Average_Salary |
 | :---------------| :----------  | :----------  |
-|Go	         | 27    | $115,320    |
-|Confluence	| 11    | $114,210    |
-|Hadoop         	| 22    | $113,193    |
-|Snowflake	| 37    | $112,948    |
-|Azure         	| 34    | $111,225    |
-|BigQuery	| 13    | $109,654    |
-|AWS         	| 32    | $108,317    |
-|Java         	| 17    | $106,906    |
-|SSIS         	| 12    | $106,683    |
-|Jira         	| 20    | $104,918    |
+|Go	         | 27     | $115,320    |
+|Confluence	| 11     | $114,210    |
+|Hadoop         	| 22     | $113,193    |
+|Snowflake	| 37     | $112,948    |
+|Azure         	| 34     | $111,225    |
+|BigQuery	| 13     | $109,654    |
+|AWS         	| 32     | $108,317    |
+|Java         	| 17     | $106,906    |
+|SSIS         	| 12     | $106,683    |
+|Jira         	| 20     | $104,918    |
+|Oracle         	| 37     | $104,534    |
+|Looker         	| 49     | $103,795    |
+|NoSQL         	| 13     | $101,414    |
+|Python         	| 236    | $101,397    |
+|R         	| 148    | $100,499    |
 
 
-High-Demand Programming Languages: Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
-Cloud Tools and Technologies: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
-Business Intelligence and Visualization Tools: Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
-Database Technologies: The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
+Optimal skills for data analyst roles combine high demand and strong salary potential:
+- Core analytical skills: Python, R
+- Data visualization and reporting: Looker
+- Cloud and big data platforms: Snowflake, Azure, AWS, BigQuery, Hadoop
+- ETL and database management: SSIS, Oracle, NoSQL
+- Collaboration and workflow: Jira, Confluence
+
+- Programming languages such as Python and R remain in high demand, though their average salaries are comparatively lower. This suggests that while these skills are essential and highly valued, they are also widely available among professionals.
+- Cloud tools and big data technologies command demand with higher average salaries, reflecting the growing importance of cloud platforms and scalable data solutions in modern analytics.
+- Database technologies, with average salaries ranging from $97,786 to $104,534, highlight the continued need for expertise in data storage, retrieval, and management across analytical roles.
