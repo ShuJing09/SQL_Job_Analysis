@@ -99,6 +99,4 @@ Optimal skills for data analyst roles combine high demand and strong salary pote
 - ETL and database management: SSIS, Oracle, NoSQL
 - Collaboration and workflow: Jira, Confluence
 
-- Programming languages such as Python and R remain in high demand, though their average salaries are comparatively lower. This suggests that while these skills are essential and highly valued, they are also widely available among professionals.
-- Cloud tools and big data technologies command demand with higher average salaries, reflecting the growing importance of cloud platforms and scalable data solutions in modern analytics.
-- Database technologies, with average salaries ranging from $97,786 to $104,534, highlight the continued need for expertise in data storage, retrieval, and management across analytical roles.
+Programming languages such as Python and R remain in high demand, though their average salaries are comparatively lower. This suggests that while these skills are essential and highly valued, they are also widely available among professionals. In addition, cloud tools and big data technologies command demand with higher average salaries, reflecting the growing importance of cloud platforms and scalable data solutions in modern analytics. Last but no least, database technologies, with average salaries ranging from $97,786 to $104,534, highlight the continued need for expertise in data storage, retrieval, and management across analytical roles.
