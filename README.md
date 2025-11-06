@@ -22,8 +22,8 @@
 
 <img width="1404" height="761" alt="image" src="https://github.com/user-attachments/assets/409896b7-8a0b-4848-b61b-a8f4a77bfac1" />
 
-1️⃣ **Salary Range:** Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical high-end data leadership pay.
-2️⃣ **Job Title:** Diversity of job titles, reflecting varied career path & opportunities within analytics. 
+1️⃣ **Salary Range:** Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical high-end data leadership pay.\
+2️⃣ **Job Title:** Diversity of job titles, reflecting varied career path & opportunities within analytics. \
 3️⃣❗**HOWEVER**, there could be an **outlier** in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles.❗ \
            -- Likely due to company type (startup equity-based) **OR** misleading job title
 4️⃣ ⚠️ **Action to Take:** Flag the data as outlier and seek for further investgation.
@@ -32,8 +32,8 @@
 
 <img width="1945" height="1057" alt="image" src="https://github.com/user-attachments/assets/5f38dae4-3c26-4a99-9873-9e76d7a00110" />
 
-1️⃣ Programming language like **SQL** (8 counts) is the most in-demand skills and **Python** (7 counts) came in second.
-2️⃣ Visualization tools like **Tableau** (6 counts) and **PowerBI** (2 counts) highlight their importance in a Data Analyst’s skill set.
+1️⃣ Programming language like **SQL** (8 counts) is the most in-demand skills and **Python** (7 counts) came in second.\
+2️⃣ Visualization tools like **Tableau** (6 counts) and **PowerBI** (2 counts) highlight their importance in a Data Analyst’s skill set.\
 3️⃣ Based on the dataset, these are key skills required for top-paying data analyst roles, reflecting the tools commonly used in their daily work.
 
 ## 3. In-Demand Skills for Data Analysts
@@ -46,7 +46,7 @@
 |Tableau	| 3,745    |
 |PowerBI	| 2,609    |
 
-1️⃣ **SQL** and **Excel** form the backbone of data analysis, highlighting the need in data handling and analytical workflow.
+1️⃣ **SQL** and **Excel** form the backbone of data analysis, highlighting the need in data handling and analytical workflow.\
 2️⃣ **Python**, **Tableau**, and **PowerBI** complement the workflow by enabling automation, visualization, and storytelling that help with strategic decision-making.
 
 
@@ -66,8 +66,8 @@
 |Pandas         	| $151,821    |
 |Elasticsearch	| $145,000    |
 
-1️⃣ Top-paying data analyst roles favor professionals with advanced **technical and programming capabilities** — particularly in big data (PySpark), AI-driven tools (Watson, DataRobot), and modern cloud data ecosystems (Couchbase, Elasticsearch).
-2️⃣ Strong Python analytics experience (Pandas, Jupyter) further enhance earning potential, showing that data analysts with **data exploration and predictive modeling development skills** command high salaries.
+1️⃣ Top-paying data analyst roles favor professionals with advanced **technical and programming capabilities** — particularly in big data (PySpark), AI-driven tools (Watson, DataRobot), and modern cloud data ecosystems (Couchbase, Elasticsearch).\
+2️⃣ Strong Python analytics experience (Pandas, Jupyter) further enhance earning potential, showing that data analysts with **data exploration and predictive modeling development skills** command high salaries.\
 3️⃣ Familiarity with collaborative DevOps tools (GitLab, Bitbucket) that **automate the routine steps and provides efficient data pipeline management** also highlights their strong association with higher-paying roles.
 
 
