@@ -25,7 +25,6 @@
 
 <img width="1404" height="761" alt="image" src="https://github.com/user-attachments/assets/409896b7-8a0b-4848-b61b-a8f4a77bfac1" /> <br>
 
-<br>
 1️⃣ **Salary Range:** Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical high-end data leadership pay.\
 2️⃣ **Job Title:** Diversity of job titles, reflecting varied career path & opportunities within analytics. \
 3️⃣❗**HOWEVER**, there could be an **outlier** in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles. \
