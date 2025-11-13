@@ -25,15 +25,15 @@
 
 <img width="1404" height="761" alt="image" src="https://github.com/user-attachments/assets/409896b7-8a0b-4848-b61b-a8f4a77bfac1" /> <br>
 
-1️⃣ **Salary Range:** Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical high-end data leadership pay.\
-2️⃣ **Job Title:** Diversity of job titles, reflecting varied career path & opportunities within analytics. \
+1️⃣ Director & Associate Director roles mostly cluster around 250–330k USD, indicating typical **high-end data leadership pay**.\
+2️⃣ Diversity of job titles, reflecting **varied career path & opportunities** within analytics. \
 3️⃣❗**HOWEVER**, there could be an **outlier** in "Data Analyst" job as it pays higher than all “Director” and “Principal” titles. \
            -- Likely due to company type (startup equity-based) **OR** misleading job title\
 4️⃣ ⚠️ **Action to Take:** Flag the data as outlier and seek for further investgation.
 
 ## 2. Skills Required for Top Paying Data Analyst Jobs
 
-<img width="1945" height="1057" alt="image" src="https://github.com/user-attachments/assets/5f38dae4-3c26-4a99-9873-9e76d7a00110" />
+<img width="1945" height="1057" alt="image" src="https://github.com/user-attachments/assets/5f38dae4-3c26-4a99-9873-9e76d7a00110" /> <br>
 
 1️⃣ Programming language like **SQL** (8 counts) is the most in-demand skills and **Python** (7 counts) came in second.\
 2️⃣ Visualization tools like **Tableau** (6 counts) and **PowerBI** (2 counts) highlight their importance in a Data Analyst’s skill set.\
