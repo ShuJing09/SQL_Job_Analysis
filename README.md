@@ -4,10 +4,6 @@
 2. **SQL** the backbone programming language for analysis 
 3. **Excel PivotChart & PowerBI** for visualization :bar_chart:
 
-# Create and Load Database :open_file_folder:
-1. CREATE DATABASE in PostgreSQL
-2. CREATE TABLE to load excel data 
-3. LOAD CSV file path into respective tables
 
 # Projects : Questions to Answer :question:
 1. What are the top-paying jobs for Data Analyst Job?
@@ -16,6 +12,13 @@
 4. What are the top kills based on salary?
 5. What are the most optimal skills to learn? \
          a. Optimal : High Demand AND High Paying
+
+
+# Create and Load Database :open_file_folder:
+1. CREATE DATABASE in PostgreSQL
+2. CREATE TABLE to load excel data 
+3. LOAD CSV file path into respective tables
+   
 
 # The Analysis :chart_with_upwards_trend:
 ## 1. Top 10 Paying Data Analyst Jobs
