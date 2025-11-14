@@ -1,8 +1,8 @@
 # SQL_Job_Analysis
 # Tools Used :wrench:
-1. **PostgreSQL** as database management system
-2. **SQL** the backbone programming language for analysis 
-3. **Excel PivotChart & PowerBI** for visualization :bar_chart:
+💾 **PostgreSQL** as database management system \
+🔣 **SQL** the backbone programming language for analysis \
+:bar_chart: **Excel PivotChart & PowerBI** for visualization 
 
 
 # Projects : Questions to Answer :question:
